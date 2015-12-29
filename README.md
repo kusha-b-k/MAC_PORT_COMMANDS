@@ -28,5 +28,5 @@ mac port commands
  
 accurate dependents
       
-                        $ port dependents <portname>
+                        $ port dependents <portname> 
 
